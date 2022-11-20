@@ -1,6 +1,5 @@
+# What is Modsia
 
-What is Modsia
-==============
 
 The **Modsia** project aims to provide a comprehensive architecture and platform for speech
 interaction on common Linux desktop environments.
@@ -10,8 +9,8 @@ architecture for suporting voice input and provides a minimal reference implemen
 the key components of that architecure.
 
 
-Freedom of Speech Interaction
------------------------------
+## Freedom of Speech Interaction
+
 
 For most people, speech is their primary and most natural mode of interaction with other humans. In
 recent years, speech has also become a common way for humans to interact with their smartphones and
@@ -31,16 +30,16 @@ an immediate option for deploying speech interaction, and to allow others to inn
 improve its capabilities.
 
 
-Speech Interaction and Speech Input
------------------------------------
+## Speech Interaction and Speech Input
+
 
 There are two main use cases for speech recognition and speech-to-text conversion in a desktop
 environment: voice commands for interaction, and text input through dictation. Both of these
 involve converting audio input into computer input, but they have different requirements and impose
 different demands on the system.
 
-Speech Interaction
-******************
+### Speech Interaction
+
 
 Most modern technology users are familiar with speech interaction through voice-driven assistants
 such as Siri or Alexa. With these systems users can issue commands to a computer, execute simple
@@ -49,8 +48,8 @@ or phrase (such as "Hey, Siri"). Generally these commands have a limited vocabul
 grammar, and the entire phrase is uttered before the system attempts to understand it.
 
 
-Speech Input
-************
+### Speech Input
+
 
 Generalised speech dictation for text input is a much more complex task than command recognition,
 and perhaps a more valuable one, especially for those who are visually impaired. During
