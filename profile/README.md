@@ -8,6 +8,9 @@ The project both defines an extensible
 architecture for suporting voice input and provides a minimal reference implementation of each of
 the key components of that architecure.
 
+Documentation about the project can be found at [modsia.io](https://modsia.io/). The project code
+is currently developed at our [GitHub repository](https://github.com/Modsia).
+
 
 ## Freedom of Speech Interaction
 
